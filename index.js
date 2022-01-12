@@ -21,7 +21,7 @@ const failResponse = {
     "headers": {
         "Access-Control-Allow-Origin": "*"
     },
-    "body": "you're here",
+    "body": "forbidden",
     "isBase64Encoded": false
 };
 
